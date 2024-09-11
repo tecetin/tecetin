@@ -23,7 +23,7 @@ public class HelloWorld {
 }
 ```
 #
-✍️ Kendime hedef koyduğum bir şey: Her gün bir önceki günden daha fazla öğrenmek ve yazılım dünyasına katkı sağlamak. Eğer otomasyon testleri, **yazılım geliştirme** ya da **endüstri mühendisliği** alanlarında iş birliği yapmak isterseniz, benimle iletişime geçmekten çekinmeyin!
+✍️ Kendime hedef koyduğum bir şey: Her gün bir önceki günden daha fazla öğrenmek ve yazılım dünyasına katkı sağlamak. Eğer **otomasyon testleri**, **yazılım geliştirme** ya da **endüstri mühendisliği** alanlarında iş birliği yapmak isterseniz, benimle iletişime geçmekten çekinmeyin!
 #
 ### 🔗 **Bağlantılarım:**
 - [LinkedIn](https://www.linkedin.com/in/tecetin)
